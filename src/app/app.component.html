@@ -1,0 +1,17 @@
+<!-- Toolbar -->
+<div class="toolbar" role="banner">
+  <img
+    height="100%"
+    alt="DKI Dashboard"
+    src="./assets/icons/icon-128x128.png"
+  />
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <button
+      mat-raised-button color="accent" 
+      style="background-color: #63cc84; margin-right: 10px;" 
+      (click)="addToHomeScreen()">Add to home screen</button>
+</div>
+<div role="main">
+  <router-outlet></router-outlet>
+</div>
