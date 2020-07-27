@@ -15,22 +15,27 @@ export class DatareportService {
     {
       id: 0,
       name: "Report Dana Kini Monthly Achievement",
-      link: "https://datastudio.google.com/embed/reporting/271f97a8-5fb8-480a-b65c-47cb02791d91/page/W8RUB"
+      link: "https://datastudio.google.com/embed/reporting/f3310cb0-973e-4d4e-b8ef-013ad0ad28ec/page/W8RUB"
     },
     {
       id: 1,
       name: "Report Realtime Sales Monitoring",
-      link: "https://datastudio.google.com/embed/reporting/142f7e10-918c-4547-9ec6-da3c3861606d/page/O72TB"
+      link: "https://datastudio.google.com/embed/reporting/1530f3ec-bc1f-4bbb-8c91-86836a770d55/page/y22TB"
     },
     {
       id: 2,
       name: "Report Performance Trainer Danakini",
-      link: "https://datastudio.google.com/embed/reporting/bba476b5-afb0-47c9-a4ea-822038d66e3c/page/eTAVB"
+      link: "https://datastudio.google.com/embed/reporting/9a215ff0-e617-4f64-969d-6dba2e0e8b2d/page/eTAVB"
     },
     {
       id: 3,
       name: "Report Loan Portfolio Management",
-      link: "https://datastudio.google.com/embed/reporting/f390cb9a-d4ad-4142-971e-761053a78e05/page/3U7WB"
+      link: "https://datastudio.google.com/embed/reporting/ff90b676-8e31-4605-b438-dff9120a7729/page/3U7WB"
+    },
+    {
+      id: 4,
+      name: "Report Loan Origination System",
+      link: "https://datastudio.google.com/embed/reporting/e56ffac1-2be6-4440-be98-2b3db29ea5c8/page/qZLXB"
     }
   ]
 
