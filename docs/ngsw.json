@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596507320614,
+  "timestamp": 1596508771703,
   "index": "https://rudyraharjo.github.io/dki_dashboard/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://rudyraharjo.github.io/dki_dashboard/favicon.ico",
         "https://rudyraharjo.github.io/dki_dashboard/index.html",
-        "https://rudyraharjo.github.io/dki_dashboard/main.127fba26684cc9c7dd9c.js",
+        "https://rudyraharjo.github.io/dki_dashboard/main.8768d2937ee104ab91e8.js",
         "https://rudyraharjo.github.io/dki_dashboard/manifest.webmanifest",
         "https://rudyraharjo.github.io/dki_dashboard/polyfills.a4021de53358bb0fec14.js",
         "https://rudyraharjo.github.io/dki_dashboard/runtime.e227d1a0e31cbccbf8ec.js",
@@ -66,8 +66,8 @@
     "https://rudyraharjo.github.io/dki_dashboard/assets/icons/icon-72x72.png": "d1db0ede8d9bbf99360123a6b707d13cdfac2633",
     "https://rudyraharjo.github.io/dki_dashboard/assets/icons/icon-96x96.png": "e4540ee83fa15f4bb201faa472be745309aeab3a",
     "https://rudyraharjo.github.io/dki_dashboard/favicon.ico": "d824324aaeeb4f881a352f7f04e6d2a354400962",
-    "https://rudyraharjo.github.io/dki_dashboard/index.html": "41c68772f221f16241172e51f63f1dbe546970f6",
-    "https://rudyraharjo.github.io/dki_dashboard/main.127fba26684cc9c7dd9c.js": "1b4bd471fc3f9340c476fd3a42a6806a7afb674d",
+    "https://rudyraharjo.github.io/dki_dashboard/index.html": "7c0d1c2c5319f1b9619a17962f00c223446fd0dd",
+    "https://rudyraharjo.github.io/dki_dashboard/main.8768d2937ee104ab91e8.js": "f49df25a6b819607873ba42f19b785a2c333c493",
     "https://rudyraharjo.github.io/dki_dashboard/manifest.webmanifest": "b2fa115ebc9377a1287347dffbb3f1a1136c0e8b",
     "https://rudyraharjo.github.io/dki_dashboard/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://rudyraharjo.github.io/dki_dashboard/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

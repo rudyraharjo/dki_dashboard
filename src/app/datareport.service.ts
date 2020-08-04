@@ -19,13 +19,13 @@ export class DatareportService {
     },
     {
       id: 1,
-      name: "Report Real-time Sales Monitoring - Approval",
-      link: "https://datastudio.google.com/embed/reporting/e6cba33b-7137-488d-b084-37438335657e/page/y22TB"
+      name: "Report Realtime Sales Monitoring - Confirmed",
+      link: "https://datastudio.google.com/embed/reporting/1530f3ec-bc1f-4bbb-8c91-86836a770d55/page/y22TB"
     },
     {
       id: 2,
-      name: "Report Realtime Sales Monitoring - Confirmed and Disbursed",
-      link: "https://datastudio.google.com/embed/reporting/1530f3ec-bc1f-4bbb-8c91-86836a770d55/page/y22TB"
+      name: "Report Real-time Sales Monitoring - Approved",
+      link: "https://datastudio.google.com/embed/reporting/e6cba33b-7137-488d-b084-37438335657e/page/y22TB"
     },
     {
       id: 3,
