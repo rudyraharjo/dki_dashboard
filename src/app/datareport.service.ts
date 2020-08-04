@@ -47,7 +47,7 @@ export class DatareportService {
   constructor() { }
 
   public getlistReport(): ListReport[] {
-    return this.listReport;
+    return this.listReport; 
   }
 
   public getReportDetailById(id: number): ListReport {
