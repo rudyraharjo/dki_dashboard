@@ -1,6 +1,6 @@
 {
-  "name": "DKI Dashboard",
-  "short_name": "DKI Dashboard",
+  "name": "DKIDashboard",
+  "short_name": "DKIDashboard",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
