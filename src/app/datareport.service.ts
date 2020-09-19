@@ -41,6 +41,16 @@ export class DatareportService {
       id: 5,
       name: "Report Loan Origination System",
       link: "https://datastudio.google.com/embed/reporting/e56ffac1-2be6-4440-be98-2b3db29ea5c8/page/qZLXB"
+    },
+    {
+      id: 6,
+      name: "Management Daily Dashboard",
+      link: "https://datastudio.google.com/embed/reporting/8365798b-2e75-453c-986d-d339e067b87f/page/hvSeB"
+    },
+    {
+      id: 7,
+      name: "Report Collection Daily",
+      link: "https://datastudio.google.com/embed/reporting/ec1f1a2e-bb37-4038-ba67-7a77d1ad5ea8/page/VBhbB"
     }
   ]
 
